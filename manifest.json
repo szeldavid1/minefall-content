@@ -1,11 +1,32 @@
 ﻿{
-  "version": 14,
+  "version": 33,
   "mods": [
     {
       "name": "minefall-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/szeldavid1/minefall-content/main/minefall-1.0.0.jar"
+    },
+    {
+      "name": "embeddium-0.3.31-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/szeldavid1/minefall-content/main/embeddium-0.3.31-mc1.20.1.jar"
+    },
+    {
+      "name": "ferritecore-6.0.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/szeldavid1/minefall-content/main/ferritecore-6.0.1-forge.jar"
+    },
+    {
+      "name": "modernfix-forge-5.27.51-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/szeldavid1/minefall-content/main/modernfix-forge-5.27.51-mc1.20.1.jar"
+    },
+    {
+      "name": "entityculling-forge-1.10.3-mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/szeldavid1/minefall-content/main/entityculling-forge-1.10.3-mc1.20.1.jar"
+    },
+    {
+      "name": "xaerominimap-forge-1.20.1-26.1.0.jar",
+      "url": "https://raw.githubusercontent.com/szeldavid1/minefall-content/main/xaerominimap-forge-1.20.1-26.1.0.jar"
     }
   ]
 }
+
 
 
