@@ -1,5 +1,5 @@
-﻿{
-  "version": 33,
+{
+  "version": 34,
   "mods": [
     {
       "name": "minefall-1.0.0.jar",
@@ -24,9 +24,10 @@
     {
       "name": "xaerominimap-forge-1.20.1-26.1.0.jar",
       "url": "https://raw.githubusercontent.com/szeldavid1/minefall-content/main/xaerominimap-forge-1.20.1-26.1.0.jar"
+    },
+    {
+      "name": "immersivevehicles-1.20.1-24.0.0.jar",
+      "url": "https://raw.githubusercontent.com/szeldavid1/minefall-content/main/immersivevehicles-1.20.1-24.0.0.jar"
     }
   ]
 }
-
-
-
